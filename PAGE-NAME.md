@@ -2,5 +2,6 @@ layout: page
 title: "PAGE-TITLE"
 permalink: /URL-PATH
 
-content\n
+content
+
 $\sigma (Ax+b)$
