@@ -1,5 +1,3 @@
-# mpb1807.github.io
+# My Projects
 
-test
-
-$\sigma (Ax+b)$
+project1
